@@ -1,0 +1,35 @@
+*{
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+h1{
+    color: rgb(31, 80, 241);
+}
+p{
+    color: rgb(15, 14, 14)
+}
+.title{
+    color: red;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+#artice-title{
+    font-family: cursive;
+}
+a{
+    background-color: red;
+    text-align: center;
+    padding: 3px 3px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: black;
+}
+a:hover{
+    background-color: rgb(255, 0, 149);
+    font-size: 20px;
+}
+a:active{
+    background-color: green;
+}
