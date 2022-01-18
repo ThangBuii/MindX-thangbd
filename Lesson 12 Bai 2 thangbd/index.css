@@ -1,0 +1,32 @@
+html {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    color: red;
+    margin-left: 80px;
+}
+
+#container-content{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:7px;
+    box-shadow: 5px 10px #888888;
+}
+
+p{
+    text-align: center;
+}
+
+button:hover{
+    background-color: green;
+    
+}
